@@ -1,0 +1,23 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}BTC Rate{% endblock %}
+
+{% block body %}
+    <div class="row justify-content-md-center">
+        <div class="col-auto">
+            <h1>BTC Rate</h1>
+        </div>
+    </div>
+            <br>
+    <div class="row justify-content-md-center">
+        <div class="col-auto">
+            <h2> 1 BTC = {{ btcRate }} UAH</h2>
+        </div>
+    </div>
+    <div class="row justify-content-md-center">
+        <div class="col-md-auto">
+            <br><br>
+            <a href="/user/login" class="btn btn-dark">Log out</a>
+        </div>
+    </div>
+{% endblock %}

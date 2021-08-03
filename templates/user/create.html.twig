@@ -1,0 +1,17 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Create New User{% endblock %}
+
+{% block body %}
+    <div class="row justify-content-md-center">
+        <div class="col-md-auto">
+            <h1>Create New User</h1>
+            <br>
+            {% form_theme form 'bootstrap_5_layout.html.twig' %}
+            {{ form(form) }}
+            <a href="/user/login">Back and login</a>
+            <br><br>
+            <h4>{{ emailRegAlready | default() }}</h4>
+        </div>
+    </div>
+{% endblock %}

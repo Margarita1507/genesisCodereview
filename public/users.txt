@@ -1,0 +1,3 @@
+email:margoshka05@gmail.com|password:$2y$10$l5Z.9zCr6MgBb7eJkR/J0uPQlByXjGWukiqBP8kHdaAn2kZ/F3s3m
+email:ggbvvc@mail.ru|password:$2y$10$jJyvAzROlVmLw08KwNenJOTX0itI1TIBkaW7gRGrwSvd1Q.im2rgG
+email:dima07@mail.ru|password:$2y$10$/f5TMeS2sdvXYMX1/XX8NOhdPgjOZ3wj2jlUH1oeQ0aQOSk9ADVVK
